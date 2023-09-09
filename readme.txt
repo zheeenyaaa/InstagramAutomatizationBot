@@ -1,0 +1,12 @@
+InstagramAutomatizationBot
+
+# Functions
+like_photo_by_hashtag
+put_exactly_like
+get_all_posts_urls
+put_many_likes
+download_userpage_content
+get_all_followers
+send_direct_message
+unsubscribe_for_all_users
+smart_unsubscribe
