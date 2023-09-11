@@ -4,7 +4,7 @@ direct_users_list = ["https://www.instagram.com/rachelewhelpdalewtjtyk/"]
 
 user_settings_dict = {
     "User1": {
-        "login": "jwjwianja1",
+        "login": "dgihvhi5",
         "password": "mehran123",
         "window_size": "800, 600"
     }
